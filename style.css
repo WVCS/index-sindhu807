@@ -1,3 +1,35 @@
-body {
+h1{
+  color: #362417; 
+    text-align: center; 
+}
+h2{
+  color: #456990;
+    text-align: center; 
+}
+body{
+  background-color: #F1DABF; 
+}
+h2{
+  text-align:center;
+  color: #456990;
+}
+img{
+  position:below;
+  height:0.07%;
+  left:0px;  
+}       
+table {
+  font-family: ariel, sans-serif;
+  border-collapse: collapse;
+  width: 100%;
+  }
 
+td, th {
+  border: 5px solid black;
+  text-align: center;
+  padding: 10px;
+}
+h3{
+  text-align:center;
+  color: #456990;
 }
