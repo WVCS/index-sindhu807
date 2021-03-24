@@ -7,7 +7,7 @@ h2{
     text-align: center; 
 }
 body{
-  background-color: #F1DABF; 
+  background-color: #AEDCC0; 
 }
 h2{
   text-align:center;
@@ -15,17 +15,17 @@ h2{
 }
 img{
   position:below;
-  height:0.07%;
+  height:700px;
   left:0px;  
 }       
 table {
-  font-family: ariel, sans-serif;
+  font-family: Calibri, sans-serif;
   border-collapse: collapse;
   width: 100%;
   }
 
 td, th {
-  border: 5px solid black;
+  border: 5px solid #607466;
   text-align: center;
   padding: 10px;
 }
